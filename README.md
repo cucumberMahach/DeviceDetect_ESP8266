@@ -6,3 +6,4 @@ When the ESP8266 detects the device, the built-in LED on the board (NodeMCU) lig
 ## Before compile and run
 1. At the beginning of the file, you need to change the network settings and the device address to your own.
 2. The code uses the built-in LED on the NodeMCU board.
+3. The ESP8266-ping v2.0.1 library is used.
